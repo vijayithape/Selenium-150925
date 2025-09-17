@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.pomp.test.LogInTestPFM">
+      <class name="com.apttesting.GetCall">
         <methods>
-          <include name="enterData"/>
+          <include name="getmethod"/>
         </methods>
-      </class> <!-- com.pomp.test.LogInTestPFM -->
+      </class> <!-- com.apttesting.GetCall -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

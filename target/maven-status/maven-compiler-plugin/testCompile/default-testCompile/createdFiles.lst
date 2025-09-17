@@ -1,4 +1,5 @@
 com\pom\LoginPagePFM.class
 com\pom\LoginPage.class
 com\pomp\test\TestPage.class
+com\apttesting\GetCall.class
 com\pomp\test\LogInTestPFM.class
